@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @dolores9monro500
+- Computer Science undergrad mastering C.
+- Intrigued by the intricacies of low-level programming and systems software.
+
+
+<!---
+dolores9monro500/dolores9monro500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+--->
